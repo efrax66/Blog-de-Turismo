@@ -1,0 +1,54 @@
+.cuerpo-fondo {
+    background-image: url(../imgs/backgraound-cancun.jpg);
+    height: 100%;
+    background-attachment: fixed;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-imagen {
+    border-radius: 20px;
+    max-height: 8rem;
+    margin-top: 1rem;
+}
+
+.menu-botones {
+    margin-top: 1rem;
+    text-align: right;
+}
+
+.titulo-blog {
+    color: #455a64;
+}
+
+.boton-redes {
+    margin-bottom: 1rem;
+}
+
+.articulo {
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.publicacion {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.imagen-publicacion {
+    max-height: 300px;
+    margin-top: 10px;
+    
+}
+
+.perfil-autor {
+    text-align: center;
+}
+
+.btnsmall{
+    width: 30%;
+    padding: 0;
+    margin-bottom: 0.2rem;
+    
+}
